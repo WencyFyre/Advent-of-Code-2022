@@ -1,4 +1,4 @@
 export interface DaySolution {
-  partOne(): void;
-  partTwo(): void;
+    partOne(): void;
+    partTwo(): void;
 }
